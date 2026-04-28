@@ -1,0 +1,1 @@
+touch README.md LICENSE.md MANIFIESTO.txt

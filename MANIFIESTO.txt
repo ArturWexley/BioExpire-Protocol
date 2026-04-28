@@ -1,0 +1,9 @@
+MANIFIESTO.txt
+BIOEXPIRE: EL MANIFIESTO DE LA IDENTIDAD EFÍMERA
+BIOEXPIRE: THE EPHEMERAL IDENTITY MANIFESTO
+
+[ES] El uso de rasgos físicos humanos inmutables (huellas, rostros, iris, patrones de venas, secuencias de ADN, geometría ósea, o cualquier otra constante biológica) como clave permanente, constituye un punto de falla crítico. La humanidad no puede permitir que su identidad dependa de datos que, una vez comprometidos, no pueden ser renovados. El Protocolo BioExpire reemplaza la biometría biológica por una Identidad Digital Temporal propiedad exclusiva de cada persona. El cuerpo humano deja de ser la clave y se convierte en la semilla generadora de tokens digitales con fecha de caducidad programada y efímera.
+
+[EN] The use of immutable human physical traits (fingerprints, faces, iris, vein patterns, DNA sequences, bone geometry, or any other biological constant) as a permanent key constitutes a critical failure point. Humanity cannot allow its identity to depend on data that, once compromised, cannot be renewed. The BioExpire Protocol replaces biological biometrics with a Temporary Digital Identity exclusively owned by each person. The human body ceases to be the key and becomes the seed generating digital tokens with a programmed and ephemeral expiration date.
+
+Autor: Artur Wexley - 27 de Abril, 2026.
