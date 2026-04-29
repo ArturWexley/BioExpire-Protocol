@@ -7,3 +7,21 @@ BIOEXPIRE: THE EPHEMERAL IDENTITY MANIFESTO
 [EN] The use of immutable human physical traits (fingerprints, faces, iris, vein patterns, DNA sequences, bone geometry, or any other biological constant) as a permanent key constitutes a critical failure point. Humanity cannot allow its identity to depend on data that, once compromised, cannot be renewed. The BioExpire Protocol replaces biological biometrics with a Temporary Digital Identity exclusively owned by each person. The human body ceases to be the key and becomes the seed generating digital tokens with a programmed and ephemeral expiration date.
 
 Autor: Artur Wexley - 27 de Abril, 2026.
+
+[ES] 
+
+1. El Axioma de la Caducidad: Toda identidad basada en biometría estática es una vulnerabilidad persistente. BioExpire propone que la identidad debe ser dinámica y vinculada al tiempo.
+
+2. Propiedad Biométrica: El usuario debe ser el único poseedor de su clave generativa. La biometría no debe ser almacenada en bases de datos centrales, sino procesada como un evento efímero que genera una prueba de vida única.
+
+3. Evolución Continua: Una identidad segura es aquella que cambia con el individuo. BioExpire no busca reconocer quién eras ayer, sino validar quién eres en este preciso instante.
+
+[EN] 
+
+1. The Axiom of Expiry: Any identity based on static biometrics is a persistent vulnerability. BioExpire proposes that identity must be dynamic and time-bound.
+
+2. Biometric Ownership: The user must be the sole possessor of their generative key. Biometrics should not be stored in central databases, but processed as an ephemeral event that generates a unique proof-of-life.
+
+3. Continuous Evolution: A secure identity is one that changes with the individual. BioExpire does not seek to recognize who you were yesterday, but to validate who you are at this precise moment.
+
+
